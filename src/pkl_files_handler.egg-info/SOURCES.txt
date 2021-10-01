@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pkl_files_handler.egg-info/PKG-INFO
+src/pkl_files_handler.egg-info/SOURCES.txt
+src/pkl_files_handler.egg-info/dependency_links.txt
+src/pkl_files_handler.egg-info/top_level.txt
+src/pkl_handler/__init__.py
+src/pkl_handler/loading_pkl.py
